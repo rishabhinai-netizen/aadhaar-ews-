@@ -1,0 +1,10 @@
+
+---
+
+# 4️⃣ `data/ews_weekly_district.csv` (SAMPLE – YOU CAN START WITH THIS)
+
+```csv
+week,state,district,risk_category,severity_score,severity_trend,dominant_signal,enrol_total,demo_total,bio_total
+2025-12-29,Maharashtra,Pune,Watchlist,1.84,0.32,Biometric,12450,3420,6890
+2025-12-29,Maharashtra,Nagpur,Stable,0.92,0.05,Enrolment,8450,2100,3010
+2025-12-29,Delhi,Central Delhi,Emerging Risk,2.31,0.58,Biometric,5120,2890,7780
