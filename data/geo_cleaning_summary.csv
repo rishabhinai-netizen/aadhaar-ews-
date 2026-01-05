@@ -1,0 +1,6 @@
+Aspect,Before Geo-Cleaning,After PIN Canonicalisation,Impact
+State Names,Multiple variants,Single canonical state per PIN,Removed duplicates
+District Names,Inconsistent spellings,PIN-derived districts,Unique districts
+Merged States,Legacy names present,Correctly resolved,Admin accuracy
+Geographic Key,Text based,PIN based,Reduced ambiguity
+Map Accuracy,At risk,Clean rendering,Trustworthy visuals
